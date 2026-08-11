@@ -1,6 +1,6 @@
 # Sheaf-Theoretic Obstructions in Higher Dimensions and Topological Rigidity in the Affine Plane
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21893538.svg)](https://doi.org/10.5281/zenodo.21893538)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Author:** Jasmine S. Burns  
@@ -18,7 +18,7 @@ For nearly nine decades, the Keller Jacobian conjecture stood as a fundamental o
 ## Paper & Source Code
 
 * **Preprint PDF:** [`paper/compiled/manuscript.pdf`](paper/compiled/manuscript.pdf)
-* **Zenodo DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+* **Zenodo DOI:** [10.5281/zenodo.21893538](https://doi.org/10.5281/zenodo.21893538)
 
 ### Building from Source
 
