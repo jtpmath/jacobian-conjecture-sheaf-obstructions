@@ -20,6 +20,18 @@ For nearly nine decades, the Keller Jacobian conjecture stood as a fundamental o
 * **Preprint PDF:** [paper/compiled/manuscript.pdf](https://github.com/jtpmath/jacobian-conjecture-sheaf-obstructions/blob/main/paper/compiled/Manuscript.pdf)
 * **Zenodo DOI:** [10.5281/zenodo.21893538](https://doi.org/10.5281/zenodo.21893538)
 
+## Citation
+If you reference this work or build upon the cohomological/resultant framework in your research, please cite:
+
+@article{Burns2026Jacobian,
+  author    = {Burns, Jasmine S.},
+  title     = {Sheaf-Theoretic Obstructions in Higher Dimensions and Topological Rigidity in the Affine Plane},
+  journal   = {Zenodo Preprint},
+  year      = {2026},
+  doi       = {10.5281/zenodo.XXXXXXX},
+  publisher = {JTPMATH Incorporated}
+}
+
 ### Building from Source
 
 To compile the LaTeX source locally:
