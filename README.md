@@ -17,7 +17,7 @@ For nearly nine decades, the Keller Jacobian conjecture stood as a fundamental o
 
 ## Paper & Source Code
 
-* **Preprint PDF:** [`paper/compiled/manuscript.pdf`](paper/compiled/manuscript.pdf)
+* **Preprint PDF:** [paper/compiled/manuscript.pdf](https://github.com/jtpmath/jacobian-conjecture-sheaf-obstructions/blob/main/paper/compiled/Manuscript.pdf)
 * **Zenodo DOI:** [10.5281/zenodo.21893538](https://doi.org/10.5281/zenodo.21893538)
 
 ### Building from Source
