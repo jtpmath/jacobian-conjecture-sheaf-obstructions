@@ -25,12 +25,18 @@ If you reference this work or build upon the cohomological/resultant framework i
 
 @article{Burns2026Jacobian,
   author    = {Burns, Jasmine S.},
+  
   title     = {Sheaf-Theoretic Obstructions in Higher Dimensions and Topological Rigidity in the Affine Plane},
+  
   journal   = {Zenodo Preprint},
+  
   year      = {2026},
-  doi       = {10.5281/zenodo.XXXXXXX},
+  
+  doi       = {10.5281/zenodo.21893538},
+  
   publisher = {JTPMATH Incorporated}
-}
+  
+  }
 
 ### Building from Source
 
