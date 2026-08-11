@@ -27,7 +27,7 @@ For nearly nine decades, the Jacobian conjecture stood as a fundamental question
 \maketitle
 
 \section{Introduction}
-The complex Jacobian conjecture, formulated by Keller in 1939, asks whether local biholomorphism for a polynomial map implies a global algebraic bijection. Historically, research momentum focused heavily on proving the statement true, leading to a massive accumulation of heuristics rooted in low-dimensional sandboxes. 
+The complex Jacobian conjecture, formulated by Keller in 1939 \cite{Keller1939}, asks whether local biholomorphism for a polynomial map implies a global algebraic bijection. Historically, research momentum focused heavily on proving the statement true, leading to a massive accumulation of heuristics rooted in low-dimensional sandboxes and fundamental algebraic reductions—most notably the degree-reduction framework established by Bass, Connell, and Wright \cite{BCW1982}. 
 
 Recent computational breakthroughs have provided explicit counterexamples in higher dimensions. However, a brute-forced polynomial map serves only as an artifact of the failure, not an explanation. This paper transitions the discourse from computational discovery to first-principles architectural law. We map the exact thermodynamic and geometric fault lines that cause polynomial inversion to fail, showing that the division between local compliance and global invertibility is governed by absolute algebraic-geometric obstructions.
 
@@ -233,7 +233,7 @@ By Proposition~2.2, $k > 1$ implies $F^*(\mathbb{C}[y]) \subsetneq \mathbb{C}[x]
 
 To demonstrate the concrete realization of the sheaf-theoretic framework established in Sections~2 and~3, we apply our cohomological mechanics to the explicit $3$-dimensional counterexample discovered by Levent Alp\"oge. We map the mapping architecture, evaluate the exact $3$-to-$1$ fiber collisions, and identify the non-vanishing \v{C}ech $1$-cocycle that generates the obstruction class in $H^1(\mathbb{C}^3 \setminus A(F), \mathcal{F})$.
 
-\subsection{The Alp\"oge-Claude Mapping Architecture}
+\subsection{The Alp\"oge-Claude Mapping Architecture}\cite{Alpoge2026}
 Consider the polynomial endomorphism $F = (P, Q, R): \mathbb{C}^3 \to \mathbb{C}^3$ defined on variables $(x, y, z)$ by:
 \begin{align*}
 P(x,y,z) &= z(1+xy)^3 + y^2(1+xy)(4+3xy) \\
@@ -489,7 +489,7 @@ The proof of Theorem~5.1 highlights precisely why the Jacobian conjecture holds 
 
 \section{Implications for Computational Complexity in the BSS Model}
 
-The failure of the Jacobian Conjecture in dimensions $n \ge 3$ and the resulting algebraic structure of the asymptotic boundary $A(F)$ carry profound implications for algebraic complexity theory, specifically within the Blum-Shub-Smale (BSS) model of computation over $\mathbb{C}$. We establish a direct geometric correspondence between the \v{C}ech cohomology obstruction class $[\Delta] \in H^1(\mathcal{U}, \mathcal{F})$ and the separation of complexity classes $P_{\mathbb{C}}$ and $NP_{\mathbb{C}}$.
+The failure of the Jacobian Conjecture in dimensions $n \ge 3$ and the resulting algebraic structure of the asymptotic boundary $A(F)$ carry profound implications for algebraic complexity theory, specifically within the Blum-Shub-Smale (BSS) model of computation over $\mathbb{C}$ \cite{BSS1989}. We establish a direct geometric correspondence between the \v{C}ech cohomology obstruction class $[\Delta] \in H^1(\mathcal{U}, \mathcal{F})$ and the separation of complexity classes $P_{\mathbb{C}}$ and $NP_{\mathbb{C}}$.
 
 \subsection{Topological Obstructions to Rational Inversion}
 In the BSS model, a deterministic polynomial-time algorithm over $\mathbb{C}$ evaluates a bounded sequence of rational functions and branching conditions. The fundamental $NP_{\mathbb{C}}$-complete problem, Hilbert's Nullstellensatz ($HN_{\mathbb{C}}$), asks whether a parameterized polynomial system $F(x_1, \dots, x_n) = (y_1, \dots, y_n)$ possesses a solution in $\mathbb{C}^n$.
